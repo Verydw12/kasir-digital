@@ -2,6 +2,9 @@
 
 Aplikasi Point of Sale (POS) berbasis PHP dan MySQL untuk manajemen toko.
 
+<img width="1899" height="889" alt="image" src="https://github.com/user-attachments/assets/0ace4a70-4aa8-4ceb-a0b4-bfc917dee1fb" />
+
+
 ## Fitur
 
 ✅ Dashboard dengan analitik penjualan  
